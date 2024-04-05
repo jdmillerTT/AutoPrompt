@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import json
 import boto3
 
-lex_client = boto3.client('lexv2-models', aws_access_key_id='AKIAVRUVR25M7JOX53FL', aws_secret_access_key='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', region_name='us-east-1')
+lex_client = boto3.client('lexv2-models', aws_access_key_id='', aws_secret_access_key='', region_name='us-east-1')
 
 sitemap_xml_path = 'TestSiteMap.xml'
 
