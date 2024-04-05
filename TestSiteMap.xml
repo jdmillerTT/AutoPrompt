@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://nicsupport.service-now.com/now/nav/ui/classic/params/target/catalog_home.do%3Fsysparm_view%3Dcatalog_default</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+      <name>service-now Homepage</name>
+   </url>
+   <url>
+      <loc>https://nicsupport.service-now.com/now/nav/ui/classic/params/target/com.glideapp.servicecatalog_category_view.do%3Fv%3D1%26sysparm_parent%3D275a496813215e007a6dd0322244b0be%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4%26sysparm_catalog_view%3Dcatalog_default%26sysparm_view%3Dcatalog_default
+</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+      <name>VPN Access Homepage</name>
+   </url>
+   <url>
+      <loc>https://nicsupport.service-now.com/now/nav/ui/classic/params/target/com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D00a21edc0f8e570039f4db0be1050e71%26sysparm_link_parent%3D275a496813215e007a6dd0322244b0be%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4%26sysparm_catalog_view%3Dcatalog_default%26sysparm_view%3Dcatalog_default
+</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+      <name>VPN Request Temporary RSA Token</name>
+   </url>
+   <url>
+      <loc>https://nicsupport.service-now.com/now/nav/ui/classic/params/target/com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D647cd75fb5d834003ae1294097af1c77%26sysparm_link_parent%3D275a496813215e007a6dd0322244b0be%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4%26sysparm_catalog_view%3Dcatalog_default%26sysparm_view%3Dcatalog_default
+</loc>
+      <lastmod>2024-01-01</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+      <name>VPN Request RSA Keyfob</name>
+   </url>
+</urlset>

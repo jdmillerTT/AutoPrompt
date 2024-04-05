@@ -1,0 +1,32 @@
+{
+    "slotTypeName": "ServiceRequests",
+    "description": "Types of service requests available",
+    "slotTypeValues": [
+        {
+            "sampleValue": {
+                "value": "service-now Homepage"
+            }
+        },
+        {
+            "sampleValue": {
+                "value": "VPN Access Homepage"
+            }
+        },
+        {
+            "sampleValue": {
+                "value": "VPN Request Temporary RSA Token"
+            }
+        },
+        {
+            "sampleValue": {
+                "value": "VPN Request RSA Keyfob"
+            }
+        }
+    ],
+    "valueSelectionSetting": {
+        "resolutionStrategy": "OriginalValue"
+    },
+    "botId": "HMKDMVK4QW",
+    "botVersion": "DRAFT",
+    "localeId": "en_US"
+}
